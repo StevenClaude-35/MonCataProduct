@@ -13,7 +13,7 @@ namespace ConsoleApp1
                 context.Initialize(true);
                 var produits = context.Produits.ToList();
             }
-            Console.WriteLine("Ok");
+            Console.WriteLine("Okiiii");
 
         }
     }
